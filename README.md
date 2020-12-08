@@ -1,2 +1,3 @@
-# VideoConference-Backend
-VideoConference's Back-end
+# VideoConference
+Web Mobile Video Conference App (NodeJs, ReactJs, React Native, MySQL, MongoBD)
+
