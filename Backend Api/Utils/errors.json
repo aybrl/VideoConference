@@ -1,0 +1,25 @@
+{
+    "not_found" : {
+        "status" : "error", 
+        "status_code" : "404 not found", 
+        "message" : "Oups, This end-point does not exist, please check your parameteres and try again."
+    },
+
+    "id_not_found" : {
+        "status" : "error", 
+        "status_code" : "User Entry error", 
+        "message" : "There was a problem with the Id entered! Please try with another one."
+    },
+
+    "insert_value_error" : {
+        "status" : "error", 
+        "status_code" : "User Entry error", 
+        "message" : "Some of the data you tried to send was in a wrong format! Please re-check and try again."
+    },
+
+    "id_already_exists": {
+        "status" : "error", 
+        "status_code" : "User Entry error", 
+        "message" : "The Username or Email you entered already exists! Please login to your account or choose another Username/Email."
+    }
+}
